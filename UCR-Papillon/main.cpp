@@ -9,6 +9,6 @@
 #include <iostream>
 
 int main() {
-    cout << "Some stuffs;
+    cout << "Some stuffs";
     return 0;
 }
